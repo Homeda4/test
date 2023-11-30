@@ -1,0 +1,14 @@
+import SwiftUI
+
+var adad = true 
+var adds = 1
+
+if adad == true {
+repeat {
+    
+} while adad = true{
+    var adds = +1
+    print(adds)
+    
+}
+}
